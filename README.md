@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá pessoal! Eu sou a Ana Carolina 
 
-<!--
-**carolsgomes/carolsgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bem-vindo ao meu Github!
 
-Here are some ideas to get you started:
+<div>
+<img alt="Olá Mundo, Carol na area!" src="https://i.imgur.com/gFsDG2y.gif" align="left" height="200" width="200" />
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> &nbsp; Prazer, atualmente estou...</h3>
+
+&nbsp;  • 📘 Cursando em **Sistema de Informação** no **Instituto Federal**; <br>
+&nbsp;  • 🧾 Aberta para novos conhecimentos; <br>
+&nbsp;  • 📚 Trabalhando (mas não na área); <br>
+&nbsp;  • 👩‍💻 Buscando oportunidades na área; *#OpenWork* <br>
+&nbsp;  • 🖥️ Aventurando em:
+<code>Java</code> ; <code>Javascrit</code> ; <code>CSS</code> ; <code>HTML</code> e <code>Kotlin</code>;
+&nbsp;  • 
+
+<br>
+<br>
+
+## Meu status no Github
+![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=232323&title_color=BBFFFF&text_color=9C9C9C&icon_color=6A5ACD&border_color=FFFFFF)
+
+<br>
+
+> Até breve!
