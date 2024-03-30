@@ -13,10 +13,10 @@
 &nbsp;  • 📚 Trabalhando (mas não na área); <br>
 &nbsp;  • 👩‍💻 Buscando oportunidades na área; <br>
 &nbsp;  • 🖥️ Aventurando em:
-<code>Java</code> ; <code>Javascrit</code> ; <code>CSS</code> ; <code>HTML</code> e <code>Kotlin</code>; <br><br>
+<code>Java</code> ; <code>Javascrit</code> ; <code>CSS</code> ; <code>HTML</code> e <code>Kotlin</code> ; <br><br>
 &nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anac-sgomes/)
 [![Dio.me](https://img.shields.io/badge/🆔Dio.me_-C71585?style=for-the-badge&)](https://www.dio.me/users/fiercethrone)
-[![LinkedIn](https://img.shields.io/badge/Github_Academico-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/anac-sgomes/)
+[![LinkedIn](https://img.shields.io/badge/Github_Academico-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anac-Gomes/)
 
 <br>
 
