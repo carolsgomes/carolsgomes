@@ -10,7 +10,6 @@
 
 &nbsp;  • 📘 Cursando em **Sistema de Informação** no **Instituto Federal**; <br>
 &nbsp;  • 🧾 Aberta para novos conhecimentos; <br>
-&nbsp;  • 📚 Trabalhando (mas não na área); <br>
 &nbsp;  • 👩‍💻 Buscando oportunidades na área; <br>
 &nbsp;  • 🖥️ Aventurando em:
 <code>Java</code> ; <code>Javascrit</code> ; <code>CSS</code> ; <code>HTML</code> e <code>Kotlin</code> ; <br><br>
@@ -25,4 +24,4 @@
 
 <br>
 
-> Até breve!
+> Vamos criar um projeto juntos?
