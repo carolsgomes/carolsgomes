@@ -20,7 +20,7 @@
 <br>
 
 ## Meu status no Github
-![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=232323&title_color=BBFFFF&text_color=9C9C9C&icon_color=6A5ACD&border_color=FFFFFF)
+![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=111720&title_color=BBFFFF&text_color=9C9C9C&icon_color=6E8B3D&border_color=000000)
 
 <br>
 
