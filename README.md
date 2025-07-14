@@ -9,7 +9,7 @@
 <br><br>
 
 ## Meu status no Github
-![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true&height=100) <img 
+![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true&height="100") <img 
   src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak graph"/>
 
 
@@ -19,8 +19,7 @@
 </div>
 
 ##
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsgomes&layout=compact&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_color=000000&hide_border=true" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsgomes&layout=compact&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_color=000000&hide_border=true" /><img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
