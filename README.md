@@ -2,14 +2,14 @@
 <br>
 
 &nbsp;  • 📘 Cursando em **Sistema de Informação** no **Instituto Federal**; <br><br><br>
-&nbsp;&nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anac-sgomes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anac-sgomes/)
 [![Dio.me](https://img.shields.io/badge/🆔Dio.me_-C71585?style=for-the-badge&)](https://www.dio.me/users/fiercethrone) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasgcarolina@gmail.com)
 
 
 <br><br>
 
 ## Meu status no Github
-![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true&height=150) <img 
+![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true&height=100) <img 
   src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="streak graph"/>
 
 
