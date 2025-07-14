@@ -10,7 +10,7 @@
 
 ## Meu status no Github
 ![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true) <img 
-  src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" height="200" alt="streak graph"/>
+  src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" height="200" width="500" alt="streak graph"/>
 
 
 
