@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Olá, sou a Ana Carolina</h3>
 <p align="left">  
 Estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. 
-No meio acadêmico venho desenvolvendo habilidades em programação, com foco em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis.
+No meio acadêmico venho desenvolvendo habilidades em programação, com foco em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis(sprint, scrum, kanban, lean...).
 
 Já no cenário profissional possuo prática no setor administrativo e fluxo de produção com uma base sólida em tecnologia. Estou aberta a oportunidades que me permitam crescer como profisisonal de TI e contribuir ativamente para projetos.
 </p>
