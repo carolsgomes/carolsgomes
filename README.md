@@ -1,26 +1,63 @@
-## Bem vindo!
-&nbsp;  • 📘 Cursando em **Sistema de Informação** no **Instituto Federal**; <br>  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anac-sgomes/)
-[![Dio.me](https://img.shields.io/badge/🆔Dio.me_-C71585?style=for-the-badge&)](https://www.dio.me/users/fiercethrone) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasgcarolina@gmail.com)
+<h2 align="center">Seja bem-vindo!</h2>
+<h3 align="center">👩‍💻 Olá, sou a Ana Carolina</h3>
+<p align="left">  
+Estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. 
+No meio acadêmico venho desenvolvendo habilidades em programação, com foco em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis.
 
+Já no cenário profissional possuo prática no setor administrativo e fluxo de produção com uma base sólida em tecnologia. Estou aberta a oportunidades que me permitam crescer como profisisonal de TI e contribuir ativamente para projetos.
+</p>
 
-<br><br>
+<p align="center">
+  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anac-sgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.dio.me/users/fiercethrone"><img src="https://img.shields.io/badge/Dio.me-C71585?style=for-the-badge" /></a>
+</p>
 
-## Meu status no Github
-![Anac-Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&bg_color=0d1117&title_color=38bdae&text_color=c0caf5&icon_color=ff5555&hide_border=true&height="100")<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="150" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsgomes&layout=compact&bg_color=0d1117&title_color=7aa2f7&text_color=c0caf5&border_color=000000&hide_border=true" /><img src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph"/> 
+---
 
+<h2 align="center">Skills</h2>
 
-##
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&row=1&column=-1" height="150" alt="trophy graph" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-##
+---
 
-> Vamos fazer um projeto juntos
+<h2 align="center">Statistics</h2>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsgomes&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+<h2 align="center">Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&row=1"/>
+</div>
+
+---
+
+##  Sobre mim
+
+- 🐈 Amante de bichinhos;
+- 🖼️ Encatanda por arte e design;
+- 📚 Estudante Sistema de Informação;
+- 👩‍💻 Interessada em projetos inovadores;
+- 🌍 Propõe a conectas pessoas e soluções!
+
+<h3>Vamos fazer um projeto juntos?</h3>
+
+> Entre em contato comigo por e-mail ou LinkedIn!
