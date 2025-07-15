@@ -58,11 +58,11 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 - 👩‍💻 Interessada em projetos inovadores;
 - 🌍 Propõe a conectas pessoas e soluções!
 
-<h3>Vamos fazer um projeto juntos?</h3>
+<h2>Vamos fazer um projeto juntos?</h2>
 
 > Entre em contato comigo por e-mail ou LinkedIn!
 <br>
 <p align="right">
-  <em>"meraki - dar o melhor de si e fazê-lo com amor e criatividade"</em>
+  "𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶𝓂𝑜𝓇 𝑒 𝒸𝓇𝒾𝒶𝓉𝒾𝓋𝒾𝒹𝒶𝒹𝑒"
 </p>
 
