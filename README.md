@@ -53,7 +53,7 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 ##  Sobre mim
 
 - 🐈 Amante de bichinhos;
-- 🖼️ Encatanda por arte e design;
+- 🖼️ Aprecio por arte e design;
 - 📚 Estudante Sistema de Informação;
 - 👩‍💻 Interessada em projetos inovadores;
 - 🌍 Propõe a conectas pessoas e soluções!
