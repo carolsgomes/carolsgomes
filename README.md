@@ -58,7 +58,7 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 - 👩‍💻 Interessada em projetos inovadores;
 - 🌍 Propõe a conectas pessoas e soluções!
 
-<h2>Vamos fazer um projeto juntos?</h2>
+<h4>Vamos fazer um projeto juntos?</h4>
 
 > Entre em contato comigo por e-mail ou LinkedIn!
 <br>
