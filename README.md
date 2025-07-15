@@ -61,3 +61,8 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 <h3>Vamos fazer um projeto juntos?</h3>
 
 > Entre em contato comigo por e-mail ou LinkedIn!
+<br>
+<p align="right">
+  <em>"meraki - dar o melhor de si e fazê-lo com amor e criatividade"</em>
+</p>
+
