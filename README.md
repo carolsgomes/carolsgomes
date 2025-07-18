@@ -15,7 +15,7 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 
 ---
 
-<h2 align="center">Tecnológias</h2>
+<h2 align="center">Tecnologias</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -54,9 +54,9 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 
 - 🐈 Amante de bichinhos;
 - 🖼️ Aprecio a arte e design;
-- 📚 Estudante Sistema de Informação;
 - 👩‍💻 Interessada em projetos inovadores;
-- 🌍 Propõe a conectas pessoas e soluções!
+- 📚 Admira a Tecnologia e suas vertentes;
+- 🌍 Propõe-se a conectar pessoas e soluções!
 
 <h4>Vamos fazer um projeto juntos?</h4>
 
