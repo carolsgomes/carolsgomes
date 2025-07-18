@@ -1,4 +1,4 @@
-<img width="1068" height="592" alt="image" src="https://github.com/user-attachments/assets/24073d7c-5785-4422-9866-43978d19636a" /><h2 align="center">Seja bem-vindo!</h2>
+<h2 align="center">Seja bem-vindo!</h2>
 <h3 align="center">👩‍💻 Olá, sou a Ana Carolina</h3>
 <p align="left">  
 Estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. 
@@ -15,7 +15,7 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnológias</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -41,6 +41,8 @@ Já no cenário profissional possuo prática no setor administrativo e fluxo de 
 </div>
 
 ---
+
+<h2 align="center">Conquistas</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&row=1"/>
