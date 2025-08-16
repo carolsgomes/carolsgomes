@@ -1,56 +1,58 @@
-<h2 align="center">Seja bem-vindo!</h2>
-<h3 align="center">👩‍💻 Olá, sou a Ana Carolina</h3>
+<h3 align="center">👩‍💻 Ana Carolina Gomes</h3>
+<p align="center">Estudante de Sistema de Informação - IFBA</p>
+
+<p align="center">
+  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anac-sgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.dio.me/users/fiercethrone"><img src="https://img.shields.io/badge/Dio.me-C71585?style=flat" /></a>
+</p>
+
+---
+
 <p align="left">  
 Estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. 
-No meio acadêmico venho desenvolvendo habilidades em programação, com foco em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis(sprint, scrum, kanban, lean...).
+No meio acadêmico venho desenvolvendo habilidades de programação de programação em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis(sprint, scrum, kanban, lean...).
 
 Já no cenário profissional possuo prática no setor administrativo e fluxo de produção com uma base sólida em tecnologia. Estou aberta a oportunidades que me permitam crescer como profisisonal de TI e contribuir ativamente para projetos.
 </p>
 
-<p align="center">
-  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anac-sgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.dio.me/users/fiercethrone"><img src="https://img.shields.io/badge/Dio.me-C71585?style=for-the-badge" /></a>
-</p>
+<h3>🖥️ Tecnologias</h3>
+
+Linguagens:  
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+
+Ferramentas:  
+<img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/NetBeans-%231B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop%20CS6-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
+
+Metodologias Ágeis:<br>
+<img src="https://img.shields.io/badge/Sprints-%23FF6F61?style=flat&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-%2300AEEF?style=flat&logo=none&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kanban-%23ED8B00?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lean-%239B51E0?style=flat&logo=none&logoColor=white"/>
+
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+<h3 align="center">🏆 Conquistas</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=nord&no-frame=true&margin-w=10&margin-h=10&row=1"/>
 </div>
 
 ---
 
-<h2 align="center">Estatísticas</h2>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolsgomes&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolsgomes&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=carolsgomes&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-
----
-
-<h2 align="center">Conquistas</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&row=1"/>
-</div>
-
----
-
-##  Sobre mim
+## Sobre mim
 
 - 🐈 Amante de bichinhos;
 - 🖼️ Aprecio a arte e design;
