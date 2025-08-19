@@ -1,4 +1,4 @@
-<h3 align="center">👩‍💻 Ana Carolina Gomes</h3>
+<h3 align="center">👩‍💻 ANA CAROLINA GOMES</h3>
 <p align="center">Estudante de Sistema de Informação - IFBA</p>
 
 <p align="center">
@@ -9,16 +9,17 @@
 
 ---
 
-<p align="left">  
-Estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. 
-No meio acadêmico venho desenvolvendo habilidades de programação de programação em Java, Python, Kotlin e desenvolvimento web. E continuo me aprofundando em tecnologias como Git, MySQL e metodologias ágeis(sprint, scrum, kanban, lean...).
+ 
+`Olá! Tudo bem?` Atualmente estou cursando a <strong>graduação</strong> em <strong>Sistemas de Informação</strong> no <strong>Instituto Federal</strong>. <br>
+No meio acadêmico venho desenvolvendo habilidades de lógica de programação em back-end e front-end. E continuo me aprofundando em tecnologias como Git, Banco de dados e Metodologias ágeis.
 
-Já no cenário profissional possuo prática no setor administrativo e fluxo de produção com uma base sólida em tecnologia. Estou aberta a oportunidades que me permitam crescer como profisisonal de TI e contribuir ativamente para projetos.
-</p>
+Já no cenário profissional possuo prática no setor administrativo, recursos humanos e fluxo de produção com uma base sólida em tecnologia. Além de projetos pessoais que contruibuem para a minha jornada como atuante em T.I.  <br> Estou aberta a oportunidades que me permitam crescer como profissional e integrar ativamente para projetos de T.I.
 
-<h3>🖥️ Tecnologias</h3>
+---
 
-Linguagens:  
+<h3 align="center">🖥️ Tecnologias</h3>
+
+`Linguagens:`  
 <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white"/>
@@ -27,7 +28,7 @@ Linguagens:
 <img src="https://img.shields.io/badge/JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-Ferramentas:  
+`Ferramentas:`  
 <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat&logo=intellijidea&logoColor=white"/>
@@ -35,7 +36,7 @@ Ferramentas:
 <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop%20CS6-%2331A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>
 
-Metodologias Ágeis:<br>
+`Metodologias Ágeis:`<br>
 <img src="https://img.shields.io/badge/Sprints-%23FF6F61?style=flat&logo=none&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scrum-%2300AEEF?style=flat&logo=none&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kanban-%23ED8B00?style=flat&logoColor=white"/>
@@ -52,11 +53,12 @@ Metodologias Ágeis:<br>
 
 ---
 
-## Sobre mim
+<h3 align="center">🎯 Sobre mim</h3>
 
+  
 - 🐈 Amante de bichinhos;
 - 🖼️ Aprecio a arte e design;
-- 👩‍💻 Interessada em projetos inovadores;
+- 📈 Interessada em projetos inovadores;
 - 📚 Admira a Tecnologia e suas vertentes;
 - 🌍 Propõe-se a conectar pessoas e soluções!
 
