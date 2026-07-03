@@ -2,7 +2,7 @@
 <p align="center">Estudante de Sistema de Informação - IFBA</p>
 
 <p align="center">
-  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anacsgcarolina@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/anac-sgomes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.dio.me/users/fiercethrone"><img src="https://img.shields.io/badge/Dio.me-C71585?style=flat" /></a>
 </p>
@@ -45,14 +45,6 @@ Já no cenário profissional possuo prática no setor administrativo, recursos h
 
 ---
 
-<h3 align="center">🏆 Conquistas</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolsgomes&theme=nord&no-frame=true&margin-w=10&margin-h=10&row=1"/>
-</div>
-
----
-
 <h3 align="center">🎯 Sobre mim</h3>
 
   
@@ -67,6 +59,6 @@ Já no cenário profissional possuo prática no setor administrativo, recursos h
 > Entre em contato comigo por e-mail ou LinkedIn!
 <br>
 <p align="right">
-  "𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶𝓂𝑜𝓇 𝑒 𝒸𝓇𝒾𝒶𝓉𝒾𝓋𝒾𝒹𝒶𝒹𝑒"
+  𝓂𝑒𝓇𝒶𝓀𝒾 - 𝒹𝒶𝓇 𝑜 𝓂𝑒𝓁𝒽𝑜𝓇 𝒹𝑒 𝓈𝒾 𝑒 𝒻𝒶𝓏𝑒-𝓁𝑜 𝒸𝑜𝓂 𝒶 𝒶𝓁𝓂𝒶
 </p>
 
